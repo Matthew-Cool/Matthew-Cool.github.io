@@ -6,5 +6,8 @@
 ##### I am currently looking for an internship! Please check out my resume: 
 
 #### Here is my info:
-[Check out my LinkedIn](https://www.linkedin.com/in/matthew-wilkinson25/)
-Feel free to email me: **mww6121@gmail.com**
+* LinkedIn: _https://www.linkedin.com/in/matthew-wilkinson25/_
+* GitHub: _https://github.com/Matthew-Cool_
+* Feel free to email me: _mww6121@gmail.com_
+
+
