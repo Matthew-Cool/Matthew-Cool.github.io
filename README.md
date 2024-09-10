@@ -3,11 +3,11 @@
 
 #### **Hello! I am Matthew Wilkinson. Welcome to my GitHub page!**
 
-##### I am currently looking for an internship! Please check out my resume: 
+##### I am currently looking for an internship! Please check out my resume: [RESUME](https://github.com/Matthew-Cool/Matthew-Cool.github.io/blob/2dbaeff25c4c5e07719840c934cf0acbf68309b1/Resume%202.0%20Matthew%20Wilkinson.pdf)
 
 #### Here is my info:
-* LinkedIn: _https://www.linkedin.com/in/matthew-wilkinson25/_
-* GitHub: _https://github.com/Matthew-Cool_
-* Feel free to email me: _mww6121@gmail.com_
+* LinkedIn: <https://www.linkedin.com/in/matthew-wilkinson25/>
+* GitHub: <https://github.com/Matthew-Cool>
+* Feel free to email me: <mww6121@gmail.com>
 
 
